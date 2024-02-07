@@ -1,0 +1,1 @@
+print("this 122 string file")
